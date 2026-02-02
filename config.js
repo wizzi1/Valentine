@@ -22,19 +22,19 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            text: "Voce gosta de mim?",                                    // First interaction
+            yesBtn: "Sim",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you,Eu te amo! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "Quanto voce gosta de mim?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌻🌻", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
+            yesBtn: "Sim!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Ebaaaaaa my pretty,gorgeous girlfriend is my valentine 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "Agora o seu presente., um abraço e muitos beijossss!",
         emojis: "🎁💖🤗🐆💋❤️💕"  // These will bounce around
     },
 
