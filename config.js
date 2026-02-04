@@ -25,10 +25,10 @@ const CONFIG = {
             text: "Voce gosta de mim?",                                    // First interaction
             yesBtn: "Sim",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you,Eu te amo! ❤️"           // Secret hover message
+            secretAnswer: "Não só gosto de você, eu te amo!!! ❤️"           // Secret hover message
         },
         second: {
-            text: "Quanto voce gosta de mim?",                          // For the love meter
+            text: "Quanto voce me ama?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW voce gosta muito de mim mesmooooo? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW voce me ama tantoo assim mesmooooo? 🥰🚀💝",  // Shows when they go past 5000%
         high: "Ao infinito e alemmmmmmmmmmm 🚀💝",              // Shows when they go past 1000%
         normal: "Obrigado lindaaa! 🥰"                           // Shows when they go past 100%
     },
